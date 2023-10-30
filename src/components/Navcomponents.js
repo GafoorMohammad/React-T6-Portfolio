@@ -201,7 +201,7 @@ export function Contact(){
                                 <span class="input-group-text">
                                     <i class="bi bi-person-fill"></i>
                                 </span>
-                                <input type="text" class="form-control" id="name" placeholder="e.g. Adith Sagar Gowda" required/>
+                                <input type="text" class="form-control" id="name" placeholder="e.g. Mohammad Abdul Gafoor" required/>
 
                                 <span class="input-group-text">
                                     <span class="tt" data-bs-placement="bottom" title="Pretty self explanatory really...">
